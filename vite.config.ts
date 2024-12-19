@@ -74,7 +74,8 @@ export default defineConfig({
     port: 4173, // پورت مورد نظر شما
     open: true, // این گزینه به طور خودکار مرورگر را باز می‌کند
   },
-  base: "/Canvas-Drawing-App/", // اضافه کردن این برای GitHub Pages
+  // base: "/Canvas-Drawing-App/", // اضافه کردن این برای GitHub Pages
+  base: "./", 
   resolve: {
     alias: {
       "@hook": path.resolve(__dirname, "src/hook"),
