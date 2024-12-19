@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "node",  // تغییر به "node"
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,  // فعال کردن این گزینه
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "noEmitOnError": false,
+    "baseUrl": "src",
+    "paths": {
+      "@hook/*": ["hook/*"]
+    },
+
+    /* بهبود تعامل با ماژول‌ها */
+    "esModuleInterop": true,  // فعال کردن برای تعامل بهتر با CommonJS
+    "allowSyntheticDefaultImports": true,  // فعال کردن برای حمایت از Default Imports
+    "allowJs": true, // اجازه استفاده از فایل‌های JavaScript
+    "checkJs": false // اگر نمی‌خواهید TypeScript فایل‌های JavaScript را بررسی کند
+  },
+  "include": ["src"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}
