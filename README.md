@@ -13,7 +13,7 @@ This is a feature-rich canvas drawing application built with React and Vite. Use
 
 ## Live Demo
 
-You can view a live demo of the application [here](https://www.example.com).
+You can view a live demo of the application [here]([https://www.example.com](https://canvas-drawing-app-zeta.vercel.app/)).
 
 ## Screenshots
 
