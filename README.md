@@ -51,13 +51,14 @@ Usage
 
 Technologies Used
 
-    React
-    Vite
-    JavaScript
-    HTML5 Canvas
-    CSS
-    Zustand (State Management)
-    PWA (Progressive Web App)
+    - React.js
+    - Vite
+    - JavaScript
+    - HTML5 Canvas
+    - CSS
+    - Zustand (State Management)
+    - PWA (Progressive Web App)
+    - TailwindCSS
 
 
 License
