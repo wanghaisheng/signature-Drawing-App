@@ -30,15 +30,15 @@ To run this application locally, follow these steps:
 
     Install the dependencies:
 
-bash
+   bash
+   
+      npm install
+   
+   Start the application:
+   
+   bash
 
-npm install
-
-Start the application:
-
-bash
-
-    npm start
+      npm start
 
     Open your browser and navigate to http://localhost:3000.
 
