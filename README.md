@@ -17,8 +17,8 @@ You can view a live demo of the application [here](https://www.example.com).
 
 ## Screenshots
 
-![Canvas Drawing Application](./path/to/screenshot1.png)
-![Canvas Drawing Application - Tool Selection](./path/to/screenshot2.png)
+![Canvas Drawing Application](![image](https://github.com/user-attachments/assets/cbc5c760-f11d-4ba1-bb0c-07d3c19d78b1)
+)
 
 ## Installation
 
