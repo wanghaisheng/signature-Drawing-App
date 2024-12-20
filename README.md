@@ -10,6 +10,7 @@ This is a feature-rich canvas drawing application built with React and Vite. Use
 - **Persistent Data**: User data is stored in the browser's local storage, preserving your progress and tool settings.
 - **Responsive Design**: Fully functional on desktop and mobile devices.
 - **Export Options**: Download your drawings with or without transparency.
+- **PWA Support**: The application works as a Progressive Web App, enabling offline usage and the ability to add to the home screen on mobile devices.
 
 ## Live Demo
 
@@ -27,20 +28,18 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/BTF-Kabir-2020/Canvas-Drawing-App.git
    cd Canvas-Drawing-App
-
-    Install the dependencies:
-
-   bash
    
-      npm install
-   
-   Start the application:
-   
-   bash
+2. Install the dependencies:
+   ```bash
+   npm install
 
-      npm start
+3. Start the application:
+   
+     ```bash
+     npm start
 
-    Open your browser and navigate to http://localhost:3000.
+
+4. Open your browser and navigate to http://localhost:3000.
 
 Usage
 
@@ -57,17 +56,15 @@ Technologies Used
     JavaScript
     HTML5 Canvas
     CSS
+    Zustand (State Management)
+    PWA (Progressive Web App)
 
-Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 License
     This project is licensed under the
     [LICENSE](./LICENSE)
 
 This project is licensed under the BSD 2-Clause License. See the LICENSE file for details.
-Author
 
-    Created by [BTF Kabir](https://github.com/BTF-Kabir-2020).
+Created by [BTF Kabir](https://github.com/BTF-Kabir-2020).
 
