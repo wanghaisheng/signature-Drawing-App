@@ -17,8 +17,7 @@ You can view a live demo of the application [here]([https://www.example.com](htt
 
 ## Screenshots
 
-![Canvas Drawing Application](![image](https://github.com/user-attachments/assets/cbc5c760-f11d-4ba1-bb0c-07d3c19d78b1)
-)
+![Canvas Drawing Application](https://github.com/user-attachments/assets/cbc5c760-f11d-4ba1-bb0c-07d3c19d78b1)
 
 ## Installation
 
